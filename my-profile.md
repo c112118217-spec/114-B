@@ -9,9 +9,9 @@
    
 *座右銘:休息是為了走更長遠的路*
 
-[Google](https://www.google.com/?hl=zh_TW)
+[ChatGPT]([https://www.google.com/?hl=zh_TW](https://chatgpt.com/))
 
-![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![beach](beach.jpg)
 
 
 >人生沒有白走的路，每一步都算數
