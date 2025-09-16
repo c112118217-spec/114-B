@@ -9,7 +9,7 @@
    
 *座右銘:休息是為了走更長遠的路*
 
-[ChatGPT]([https://www.google.com/?hl=zh_TW](https://chatgpt.com/))
+[ChatGPT] (https://chatgpt.com/)
 
 ![beach](beach.jpg)
 
