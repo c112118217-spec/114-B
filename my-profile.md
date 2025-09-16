@@ -9,7 +9,7 @@
    
 *座右銘:休息是為了走更長遠的路*
 
-[ChatGPT] (https://chatgpt.com/)
+[ChatGPT](https://chatgpt.com/)
 
 ![beach](beach.jpg)
 
@@ -25,3 +25,8 @@
 
 
 ```print("Hello, Markdown!")```
+
+>程式碼之所以有價值， 是因為它能被閱讀、理解和修改。
+>>版本控制使這一切成為可能。
+
+
