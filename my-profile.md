@@ -10,4 +10,4 @@
 *座右銘:休息是為了走更長遠的路*
 
 [Google](https://www.google.com/?hl=zh_TW)
-! [Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
